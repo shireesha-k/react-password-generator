@@ -20,7 +20,7 @@ This is a simple Password Generator App built using **React** with **useState** 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/shireesha-k/react-password-generator.git>
    ```
 
 2. Navigate to the project directory:
